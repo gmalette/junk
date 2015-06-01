@@ -8,3 +8,6 @@ review:
     - Has Support been notified of any pertinent changes?
     - Is Shopify stable right now?
 
+deploy:
+  override:
+    - echo 'hello'
