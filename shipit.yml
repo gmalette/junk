@@ -1,0 +1,10 @@
+review:
+  checklist:
+    - >
+      Do you have the deploy <a href="https://app.datadoghq.com/dash/dash/15488?live=true&from_ts=1392593693791&to_ts=1392597293791&tile_size=m">datadog dashboard</a>,
+      and the <a href="https://shopify.slack.com/messages/shopify-exceptions/">#shopify-exceptions</a> channel open on slack
+      open and are you ready to attend to it during the deploy?
+    - Do you know if it is safe to revert the code being shipped? What happens if we need to undo this deploy?
+    - Has Support been notified of any pertinent changes?
+    - Is Shopify stable right now?
+
